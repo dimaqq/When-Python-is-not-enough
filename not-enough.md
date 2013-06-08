@@ -8,7 +8,7 @@ dimaqq@gmail.com
 
 
 
-# Plan
+## Plan
 
 * simple problem
 * optimisation in Python
@@ -162,7 +162,7 @@ after 1000 steps
 
 
 
-# Libraries
+## Libraries
 
 * numpy
 * scipy
@@ -183,7 +183,7 @@ after 1000 steps
 
 
 
-# C
+## C
 
 * cython
 * ctypes
@@ -261,7 +261,7 @@ guint g_signal_new (const gchar *signal_name,
 
 
 
-## Results P
+## Results
 
 ```no-highlight
                                     steps/s
@@ -319,7 +319,7 @@ guint g_signal_new (const gchar *signal_name,
 
 
 
-# SystemExit
+## SystemExit
 
 Dima Tisnek
 
