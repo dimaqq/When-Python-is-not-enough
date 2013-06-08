@@ -1,7 +1,7 @@
 When Python is not enough
 =========================
 
-[Slides for this talk](http://http://dimaqq.github.io/When-Python-is-not-enough)
+[Slides for this talk](http://dimaqq.github.io/When-Python-is-not-enough)
 
 Covered in this talk:
 
