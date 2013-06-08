@@ -6,6 +6,8 @@ Pythonic Wisdom
 
 dimaqq@gmail.com
 
+[code on github](http://github.com/dimaqq/When-Python-is-not-enough)
+
 
 
 ## Plan
