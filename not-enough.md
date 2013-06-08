@@ -281,9 +281,9 @@ guint g_signal_new (const gchar *signal_name,
               psyco                     26M
               pypy                     180M
               numpy                    203M
-              cython                      .
-              ctypes                      .
-              cffi                        .
+              cython                   156M
+              ctypes                   182M
+              cffi                     221M
 ```
 
 
